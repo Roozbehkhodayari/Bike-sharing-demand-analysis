@@ -14,8 +14,6 @@ The analysis includes:
 * Linear Regression modeling
 * Model evaluation and interpretation
 
-The project was completed as part of the DX602 course and is designed as both a final submission and a portfolio project.
-
 ---
 
 ## Project Structure
